@@ -9,8 +9,6 @@ Along the way, color in the cells marked with an small orange square (see figure
 Solve the problem for all robot environments (write a common code). 
 The solution of the task is located in the file "Task-3-4.py".
 
-
-
 RobotTask-3-4. Занятия по Python. Исполнитель Робот. Платформа StepInDev. Приложение с графическим интерфейсом пользователя.
 Поле робота в первой обстановке имеет размеры: длина 6 клеток, ширина 1 клетку. 
 Поле робота во второй обстановке имеет размеры: длина 7 клеток, ширина 1 клетку. 
@@ -20,7 +18,6 @@ RobotTask-3-4. Занятия по Python. Исполнитель Робот. П
 По пути следования закрасить клетки помеченные малым оранжевым кватратом. (см. рис.). 
 Решить задачу для всех обстановок робота (написать общий код). 
 Решение задачи находится в файле "Task-3-4.py".
-
 
 Robot-Pos-N1
 
